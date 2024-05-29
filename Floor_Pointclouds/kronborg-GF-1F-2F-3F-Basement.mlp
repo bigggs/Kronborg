@@ -1,0 +1,54 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="Kronborg-GF-1F-2F.ply" idInFile="-1" visible="0" label="First Floor">
+   <MLMatrix44>
+1 0 0 0.0906565 0 1 0 0.0216915 0 0 1 -2.83395 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="255 255 255 255" wireColor="255 255 255 255" wireWidth="1" pointSize="1" pointColor="13 252 0 255" solidColor="255 255 255 255">000111000000000000000100000001000000001011100000000100111001111000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="Kronborg-GF-1F-2F-3F.ply" idInFile="-1" visible="0" label="Second Floor">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="252 0 0 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-1F-2F-3F-basement.ply" idInFile="-1" visible="0" label="Third Floor">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="252 82 127 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-8-1.ply" idInFile="-1" visible="1" label="kronborg-8-1.ply">
+   <MLMatrix44>
+0.952642 -0.300122 -0.0489869 60.9623 0.302644 0.951428 0.0564892 -19.6896 0.0296539 -0.0686396 0.997201 -9.73835 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="80 226 255 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-8-2.ply" idInFile="-1" visible="1" label="kronborg-8-2.ply">
+   <MLMatrix44>
+0.0329939 0.992223 0.120018 62.1973 -0.991437 0.047673 -0.121573 -38.8964 -0.12635 -0.114979 0.9853 -9.3938 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="80 226 255 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-10.ply" idInFile="-1" visible="1" label="kronborg-10.ply">
+   <MLMatrix44>
+0.21269 0.977019 0.0140445 12.8985 -0.976564 0.212062 0.0367807 -59.8025 0.0329572 -0.0215382 0.999225 -7.64251 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="80 226 255 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-1F-2F-3F-basement-82.ply" idInFile="-1" visible="0" label="Ground Floor">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="0 0 255 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="kronborg-9.ply" idInFile="-1" visible="1" label="kronborg-9.ply">
+   <MLMatrix44>
+-0.515255 -0.857036 -0.00103818 41.6596 0.855984 -0.514681 0.0489465 -0.274067 -0.0424832 0.0243313 0.998801 -9.0482 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointSize="1" pointColor="80 226 255 255" solidColor="192 192 192 255">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
