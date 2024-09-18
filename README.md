@@ -46,3 +46,13 @@ This dataset is shared under the terms of the applicable license. Please review 
 ### Citation
 If you use this dataset in your work, please cite the following:
 
+```
+@article{davies2024royal,
+  title={Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls},
+  author={Davies, Leon Masterman and Sølvsten, Simon},
+  journal={Arxiv},
+  year={2024},
+  month={September}
+}
+```
+
